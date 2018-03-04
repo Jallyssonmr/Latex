@@ -1,2 +1,2 @@
 # Latex
-:scream: Generates files in Latex formats
+:yellow_heart: Generates files in Latex formats
